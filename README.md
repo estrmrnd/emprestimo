@@ -123,7 +123,7 @@ O projeto possui testes para as entidades `Equipamento` e `Emprestimo`, verifica
 
 **Plataforma:** Render
 
-**URL da API:** A preencher após a publicação.
+**URL da API:** https://emprestimo-api-8mne.onrender.com
 
 ## Autor
 
